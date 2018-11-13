@@ -36,21 +36,21 @@
 
 ## Instrukcje warunkowe
 1. `If`, `else`, `else if`.
-2. **Zadanie projektowe** Pogrubienie wybranych elementów tablicy:
-  1. Instrukcja `if` w pętli dodającej elementy z kolekcji.
-  2. Warunek - może być ilość znaków, napis rozpoczynający się od wybranych liter, zawierający znaki xyz...
-  3. "Opakowanie" w znacznik `<b>...</b>`.
+1. **Zadanie projektowe** Pogrubienie wybranych elementów tablicy:
+   1. Instrukcja `if` w pętli dodającej elementy z kolekcji.
+   1. Warunek - może być ilość znaków, napis rozpoczynający się od wybranych liter, zawierający znaki xyz...
+   1. "Opakowanie" w znacznik `<b>...</b>`.
 
 ## Funkcje
 1. Co to jest funkcja - powielanie funkcjonalności kodu.
 2. Argumenty funkcji (wspomnienie o `arguments` i CLI).
 3. **Zadanie projektowe** "Opakowanie" dotychczasowej funkcjonalności w funkcję:
-  1. Napisz nową funkcję.
-  2. Pierwszym argumentem tej funkcji powinien być identyfikator.
-  3. Drugi argument to tablica napisów.
-  4. Dopisz nowy znacznik z innym identyfikatorem.
-  5. Dodaj tablicę z kolekcją osoby po Twojej prawej stronie.
-  6. Wywołaj dwukrotnie funkcję dla par argumentów.
+   1. Napisz nową funkcję.
+   2. Pierwszym argumentem tej funkcji powinien być identyfikator.
+   3. Drugi argument to tablica napisów.
+   4. Dopisz nowy znacznik z innym identyfikatorem.
+   5. Dodaj tablicę z kolekcją osoby po Twojej prawej stronie.
+   6. Wywołaj dwukrotnie funkcję dla par argumentów.
   
 ## Pole tekstowe
 1. Znacznik `input`.
@@ -61,9 +61,9 @@
 2. Atrybut `onclick`
 3. Atrybut `onclick` w kodzie JS.
 4. **Zadanie projektowe** Dodawanie nowego elementu kolekcji:
-  1. Umieść na stronie przycisk z napisem "Dodaj".
-  2. Akcja `onclick` powinna wywoływać nową funkcję `addToCollection`.
-  3. Funkcja `addToCollection` powinna dodawać treść z pola tekstowego (`input`) do tablicy.
+   1. Umieść na stronie przycisk z napisem "Dodaj".
+   2. Akcja `onclick` powinna wywoływać nową funkcję `addToCollection`.
+   3. Funkcja `addToCollection` powinna dodawać treść z pola tekstowego (`input`) do tablicy.
   
 # DLC - Dla chętnych / jak zostanie czas?
 
