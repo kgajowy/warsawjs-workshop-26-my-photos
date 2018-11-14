@@ -18,6 +18,7 @@
 5. Typ danych - skąd JS wie, co jest napisem, a co liczbą? Nie zawsze wie **dobrze** - przykład z dodawaniem napisu i cyfry. Niejawna konwersja. (tylko wspomieć, bez szczegółów i tablicy porównań ;)
 6. Tablica - elementy tablicy, `length`. Dodawanie elementów.
 7. Tablica - napis jako tablica znaków. Split & join, przykład również na cyfrach i mieszanych elementach ([1, 'abc', true]) - znowu niejawna konwersja.
+1. Typy specjalnie - `null` i `undefined`
 8. **Zadanie projektowe** Stwórzmy tablicę ulubionych słów z języka polskiego (albo książek).
 
 ## Pętle
