@@ -7,6 +7,7 @@
 1. Co to jest HTML.
 2. Tworzymy index.html - znaczniki `head`, `meta` (google, wyszukiwanie), `body` (content ‘na sztywno’).
 3. Dodajemy skrypt JS - tworzenie pliku, `console.log`.
+1. Słowo o Node.js. Wykonanie skryptu z poziomu node.js / IDE.
 4. Znaczniki HTML - `div`, `p`, `ul` > `li`.
 
 ## Typy danych (liczba, napis, wartość logiczna, nic/undefined, tablica)
