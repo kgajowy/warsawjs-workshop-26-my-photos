@@ -80,7 +80,7 @@
 # Co dalej?
 1. Zapoznanie się z słowami kluczowymi `var` oraz `const`, co to jest `hoisting`
 1. Obiekty - `{}`, `Object.keys`, `Set` oraz `Map`
-1. Nowości z `ES6` oraz `ES5` (nowy standard; arrow function, .map ...)
+1. Nowości z `ES6` oraz `ES5` (nowy standard; arrow function, .map, template literals, spread operator ...)
 1. Podstawy `CSS`
 1. Mechanizm `Promise`
 1. Koncepcje struktury projektu (tematycznie, funkcjonalnie)

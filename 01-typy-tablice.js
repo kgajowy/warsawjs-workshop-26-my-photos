@@ -3,7 +3,7 @@
  * czy tablica musi mieć jeden typ danych?
  * */
 
-// length, push, pop
+// odwoływanie się do własności tablicy (dot); length, push, pop=
 
 // odwolywanie sie do indeksow
 
