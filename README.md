@@ -12,8 +12,8 @@
 
 ## Typy danych (liczba, napis, wartość logiczna, nic/undefined, tablica)
 
-1. Zmienne (var) - deklaracja, przypisywanie wartości liczbowej, wyświetlanie.
-2. Operacje na zmiennej liczbowej (+, +=).
+1. Zmienne (let) - deklaracja, przypisywanie wartości liczbowej, wyświetlanie.
+2. Operacje na zmiennej liczbowej (+, +=, *, operator ++). Przypisywanie wyniku do zmiennej.
 3. Napis i operacje (+, tworzenie nowego napisu, zmiana istniejącego, substring, includes, indexOf).
 4. Wartość logiczna (operatory && || - opowiedzieć tylko, że możemy łączyć "matematycznie" i używać do warunkowego wykonywania kodu).
 5. Typ danych - skąd JS wie, co jest napisem, a co liczbą? Nie zawsze wie **dobrze** - przykład z dodawaniem napisu i cyfry. Niejawna konwersja. (tylko wspomieć, bez szczegółów i tablicy porównań ;)
@@ -77,12 +77,16 @@
 1. Funkcje - wartości zwracane
 
 # Co dalej?
-1. Zapoznanie się z słowami kluczowymi `let` oraz `const`
-2. Nowe Funkcje `ES6` oraz `ES5` (nowy standard)
-3. Podstawy `CSS`
-4. Mechanizm `Promise`
-5. Koncepcje struktury projektu
-6. `LocalStorage`
-7. ...
+1. Zapoznanie się z słowami kluczowymi `var` oraz `const`, co to jest `hoisting`
+1. Obiekty - `{}`, `Object.keys`, `Set` oraz `Map`
+1. Nowości z `ES6` oraz `ES5` (nowy standard; arrow function, .map ...)
+1. Podstawy `CSS`
+1. Mechanizm `Promise`
+1. Koncepcje struktury projektu (tematycznie, funkcjonalnie)
+1. `LocalStorage`
+1. Struktura plików (tematycznie, funkcjonalnie)
+1. Unit Test
+1. Node.js i dostęp do systemu operacyjnego
+1. ...
 
 
