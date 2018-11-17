@@ -7,13 +7,20 @@
 
 // odwolywanie sie do indeksow
 
-// API - split, join
+// API - split, join, sort, reverse
 /**
- * Ćwiczenie
+ * Ćwiczenie *
+ * Wykonaj sortowanie ciągu znaków: '563947180'
  *
- * używając split i join, odwrócić ciąg znaków.
  *
- * metoda ".reverse()" na tablicy odraca kolejność elementów
+ * Ćwiczenie **
+ * Z tablicy:
+ * [1,2,3,4,5,6,7,8,9]
+ * wypisz dziewiąty (ostatni) element
+ *
+ * Ćwiczenie ***
+ * Używając split i join, odwrócić ciąg znaków "WarsawJS"
+ * Metoda ".reverse()" na tablicy odraca kolejność elementów
  *
  */
 
