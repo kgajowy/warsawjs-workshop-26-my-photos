@@ -44,7 +44,7 @@
    1. Instrukcja `if` w pętli dodającej elementy z kolekcji.
    1. Warunek - może być ilość znaków, napis rozpoczynający się od wybranych liter, zawierający znaki xyz...
    1. "Opakowanie" w znacznik `<b>...</b>`.
-   
+    
 ## Funkcje
 1. Co to jest funkcja - powielanie funkcjonalności kodu.
 2. Argumenty funkcji (wspomnienie o `arguments` i CLI).

@@ -39,4 +39,38 @@ const HTML_DOM = `
  *      `innerHTML`
  * zmień napis Syntax na "WarsawJS"
  *
+ * Ćwiczenie - wspólnie ! uwaga, funkcja () ! *
+ * Utworzyć nowy element:
+ * var u = document.createElement('div')
+ *
+ * Dodać do niego treść, korzystając z innerHTML
+ *
+ * Dodać utworzony element do 'Syntax' (jako "dziecko")
+ *
+ */
+
+
+/**
+ * ZADANIE PROJEKTOWE
+ *
+ * Pomoce naukowe:
+ *
+ * createElement - 'img'
+ * imgElement.setAttribute('src', 'https://picsum.photos/512/360?image=200')
+ *
+ * sprawi, że img będzie miał atrybut src
+ *
+ *
+ * Ćwiczenie ** / ***
+ * Załaduj style CSS do pliku index.html:
+ * <link rel="stylesheet" type="text/css" href="styles.css">
+ * W sekcji HEAD.
+ *      > Twoja kolekcja obrazków powinna mieć rodzica
+ *      zgodnego z definicją w CSS.
+ *
+ *      > Twoje obrazki powinny mieć
+ *      atrybut "class"
+ *      ustawiony na "image" (zgodnie z CSSem)
+ *
+ *
  */

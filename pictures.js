@@ -1,4 +1,3 @@
-// <img src="https://picsum.photos/512/360?image=200" class="image"/>
 
 const pictures = [
     'https://picsum.photos/512/360?image=200',
