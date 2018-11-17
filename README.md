@@ -23,6 +23,9 @@
 1. ~Typy proste i obiektowe~
 8. **Zadanie projektowe** Stwórzmy tablicę ulubionych słów z języka polskiego (albo książek).
 
+## Instrukcje warunkowe
+1. `If`, `else`, `else if`.
+
 ## Pętle
 
 1. Standardowa pętla `for` (var i = 0 ; i ... ; ++i ) { ... } - wypisujemy w konsoli naszą tablicę.
@@ -37,13 +40,11 @@
 5. Dodawanie Elementu do "rodzica".
 6. **Zadanie projektowe** Wyświetlenie na stronie tablicy elementów z wybranej kolekcji.
 
-## Instrukcje warunkowe
-1. `If`, `else`, `else if`.
 1. **Zadanie projektowe** Pogrubienie wybranych elementów tablicy:
    1. Instrukcja `if` w pętli dodającej elementy z kolekcji.
    1. Warunek - może być ilość znaków, napis rozpoczynający się od wybranych liter, zawierający znaki xyz...
    1. "Opakowanie" w znacznik `<b>...</b>`.
-
+   
 ## Funkcje
 1. Co to jest funkcja - powielanie funkcjonalności kodu.
 2. Argumenty funkcji (wspomnienie o `arguments` i CLI).
