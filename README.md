@@ -1,5 +1,7 @@
 # warsawjs-workshop-26-my-photos
 
+Program Workshopu
+
 # Agenda
 
 ## Wstawianie skryptów do HTML /console.log/
